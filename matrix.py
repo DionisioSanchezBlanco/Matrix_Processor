@@ -1,4 +1,4 @@
-# Stage 1. Matrix processor
+# Stage 1. Matrix processor.
 
 class Matrix:
     def __init__(self, row, col):
